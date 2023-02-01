@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1.-K -global-apropos
+2.--debug
+3.-q,-Q
+4.--no-justification,--nj
